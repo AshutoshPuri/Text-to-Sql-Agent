@@ -1,0 +1,7 @@
+# Theme values are also referenced as CSS variables in ui_components.py for visual consistency.
+[theme]
+primaryColor = "#22CFC2"
+backgroundColor = "#0B1120"
+secondaryBackgroundColor = "#121A2D"
+textColor = "#E6EDF5"
+font = "sans serif"
